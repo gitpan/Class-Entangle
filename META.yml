@@ -1,0 +1,19 @@
+---
+abstract: 'Functions to entangle an object.'
+author: ~
+build_requires:
+  Test::More: 0.8
+distribution_type: module
+generated_by: 'Module::Install version 0.79'
+license: unknown
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Class-Entangle
+no_index:
+  directory:
+    - inc
+    - t
+requires:
+  Exporter: 5.63
+version: 0.03
